@@ -1,0 +1,4 @@
+--Question 2
+SELECT * FROM PROJECT 
+WHERE BUDGET > 350000;
+
