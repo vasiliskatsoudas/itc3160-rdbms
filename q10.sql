@@ -1,0 +1,9 @@
+--Question 10
+SELECT COUNT(PROJNAME) FROM ProjectInfo
+WHERE EMPID = 103;
+
+
+
+
+
+
